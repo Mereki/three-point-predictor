@@ -83,10 +83,10 @@ Prediction: 4.2 threes
 Confidence: MEDIUM (65/100)
 
 Key factors:
-  ✓ Averaging 4.0 3PM last 5 games
-  ✓ Opponent allows 36.8% to guards (league avg: 36.5%)
-  ✓ High volume shooter (9.2 3PA/game)
-  ✓ Consistent shooter (variance: 1.3)
+  Averaging 4.0 3PM last 5 games
+  Opponent allows 36.8% to guards (league avg: 36.5%)
+  High volume shooter (9.2 3PA/game)
+  Consistent shooter (variance: 1.3)
 
 Recent games:
   1/24/2026: 4 threes
